@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Ashir Aliyev</h1>
 <h3 align="center">Cyber Security Engineer & Python Django Developer</h3>
 
+- 👨‍💻 All of my projects are available at [https://ashiraliyev.com/](https://ashiraliyev.com/)
+
+- 📫 How to reach me **aliyevashir@mail.ru**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/ashir-aliyev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashir-aliyev" height="30" width="40" /></a>
