@@ -1,7 +1,8 @@
 
 <h1 align="center">Hi, I'm Ashir Aliyev</h1>
 <h3 align="center">Cyber Security Engineer & Python Django Developer</h3>
-<img src="[https://miro.medium.com/v2/resize:fit:1400/format:webp/0*aDKv8_QjstqmlY0P.jpg](https://github.blog/wp-content/uploads/2023/10/Security_banner-OG.jpg?fit=1200%2C435)" alt="Ashir Aliyev" style="width:50%; height:auto; display:block; margin:auto;">
+![Security Banner](https://github.blog/wp-content/uploads/2023/10/Security_banner-OG.jpg?w=1200)
+
 
 - 👨‍💻 All of my projects are available at [https://ashiraliyev.com/](https://ashiraliyev.com/)
 
