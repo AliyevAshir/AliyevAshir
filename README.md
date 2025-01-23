@@ -2,7 +2,7 @@
 <h1 align="center">Hi, I'm Ashir Aliyev</h1>
 <h3 align="center">Cyber Security Engineer & Python Django Developer</h3>
 <img src="https://github.blog/wp-content/uploads/2023/10/Security_banner-OG.jpg?w=1200" alt="Security Banner" width="100%" />
-<hr style="border: none; height: 5px; background: linear-gradient(to right, #ff7e5f, #feb47b);">
+<hr style="border: none; height: 5px; background: linear-gradient(to right, #ff7e5f, #feb47b, #00c6ff, #0072ff);">
 
 
 - 👨‍💻 All of my projects are available at [https://ashiraliyev.com/](https://ashiraliyev.com/)
