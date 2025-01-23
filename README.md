@@ -1,4 +1,3 @@
-<img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/0*aDKv8_QjstqmlY0P.jpg" alt="Ashir Aliyev" style="width:100%; height:auto; display:block; margin:auto;">
 
 <h1 align="center">Hi, I'm Ashir Aliyev</h1>
 <h3 align="center">Cyber Security Engineer & Python Django Developer</h3>
